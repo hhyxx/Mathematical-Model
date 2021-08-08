@@ -23,21 +23,21 @@
 ----
 ## 2 算法学习
 + matlab 基础
-    + [数据预处理](https://www.cnblogs.com/hhyx/p/13516029.html) $\checkmark$
-    + [随机数据的生成](https://www.cnblogs.com/hhyx/p/13531589.html) $\checkmark$
-    + 画图工具$\checkmark$ 
+    + [数据预处理](https://www.cnblogs.com/hhyx/p/13516029.html) 
+    + [随机数据的生成](https://www.cnblogs.com/hhyx/p/13531589.html) 
+    + 画图工具
 + 计算机模拟
-    + 蒙特卡洛模拟$\checkmark$
+    + 蒙特卡洛模拟
     + 元胞自动机
 + 数据挖掘
-    + k-means 聚类$\checkmark$
+    + k-means 聚类
     + DBCAN 聚类
-    + 机理性聚类$\checkmark$
+    + 机理性聚类
 + 数据处理、数理统计
     + 参数估计、假设检验
     + 回归：得到数据函数
-    + [拟合](https://www.cnblogs.com/hhyx/p/13401503.html)：根据已有数据拟合函数 $\checkmark$
-    + [插值](https://www.cnblogs.com/hhyx/p/13401503.html)：根据已有数据得到函数，得到在某些离散点的取值$\checkmark$
+    + [拟合](https://www.cnblogs.com/hhyx/p/13401503.html)：根据已有数据拟合函数
+    + [插值](https://www.cnblogs.com/hhyx/p/13401503.html)：根据已有数据得到函数，得到在某些离散点的取值
 + 数学规划问题求解
     + 线性规划
     + 非线性规划
@@ -45,21 +45,21 @@
 + 最小二乘优化
 + 方差分析
 + 多元分析
-    + [主成分分析](https://www.cnblogs.com/hhyx/p/13514752.html) $\checkmark$
+    + [主成分分析](https://www.cnblogs.com/hhyx/p/13514752.html)
 + 回归分析
     + 多元回归分析
     + $logic$回归
 + 综合评价模型
-    + [层次分析法](https://www.cnblogs.com/hhyx/p/13137480.html)$\checkmark$：用于未给定数据但需要进行评价
-    + [熵权法](https://www.cnblogs.com/hhyx/p/13552610.html)$\checkmark$：用于确定各个指标的权重
-    + [TOPSIS距离法](https://www.cnblogs.com/hhyx/p/13554605.html)$\checkmark$：用于得到最后的综合排名
+    + [层次分析法](https://www.cnblogs.com/hhyx/p/13137480.html)：用于未给定数据但需要进行评价
+    + [熵权法](https://www.cnblogs.com/hhyx/p/13552610.html)：用于确定各个指标的权重
+    + [TOPSIS距离法](https://www.cnblogs.com/hhyx/p/13554605.html)：用于得到最后的综合排名
 + 对策论
-+ [排队论](https://www.cnblogs.com/hhyx/p/13524728.html) $\checkmark$
-    + [常用的分布函数](https://www.cnblogs.com/hhyx/p/13517768.html)  $\checkmark$
++ [排队论](https://www.cnblogs.com/hhyx/p/13524728.html) 
+    + [常用的分布函数](https://www.cnblogs.com/hhyx/p/13517768.html) 
 + 图论
-    + 最短路 $\checkmark$
-    + [网络流](https://www.cnblogs.com/hhyx/p/13558459.html) $\checkmark$
+    + 最短路 
+    + [网络流](https://www.cnblogs.com/hhyx/p/13558459.html) 
 + 智能算法
-    + [模拟退火](https://www.cnblogs.com/hhyx/p/12814003.html) $\checkmark$
+    + [模拟退火](https://www.cnblogs.com/hhyx/p/12814003.html)
     + 粒子群算法 
-+ [数值积分](https://www.cnblogs.com/hhyx/p/13577891.html) $\checkmark$
++ [数值积分](https://www.cnblogs.com/hhyx/p/13577891.html)
