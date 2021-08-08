@@ -22,10 +22,12 @@
     +  给参数一个很小的扰动，看结果的扰动是否也很小
 ----
 ## 2 算法学习
-+ matlab 基础
++ 数据处理
     + [数据预处理](https://www.cnblogs.com/hhyx/p/13516029.html) 
+        + [代码](https://github.com/hhyxx/Mathematical-Model/tree/main/DataProcessing/DataStandardization)
     + [随机数据的生成](https://www.cnblogs.com/hhyx/p/13531589.html) 
-    + 画图工具
+        + [代码](https://github.com/hhyxx/Mathematical-Model/tree/main/DataProcessing/Random)
+    + [数据可视化](https://github.com/hhyxx/Mathematical-Model/tree/main/DataProcessing/DataVisualization)
 + 计算机模拟
     + 蒙特卡洛模拟
     + [元胞自动机](https://github.com/hhyxx/Mathematical-Model/tree/main/Simulate/CellularAutomata)
@@ -34,14 +36,20 @@
     + [DBCAN 聚类](https://github.com/hhyxx/Mathematical-Model/tree/main/Clustering/DBSCAN)
     + 机理性聚类
 + 数据处理、数理统计
-    + 参数估计、假设检验
+    + [参数估计、假设检验](https://github.com/hhyxx/Mathematical-Model/tree/main/DataProcessing/ParameterPstimationAndHypothesis%20)
     + 回归：得到数据函数
-    + [拟合](https://www.cnblogs.com/hhyx/p/13401503.html)：根据已有数据拟合函数
-    + [插值](https://www.cnblogs.com/hhyx/p/13401503.html)：根据已有数据得到函数，得到在某些离散点的取值
-+ 数学规划问题求解
-    + 线性规划
-    + 非线性规划
-    + 整数规划
+        + [拟合](https://www.cnblogs.com/hhyx/p/13401503.html)：根据已有数据拟合函数
+            + [代码](https://github.com/hhyxx/Mathematical-Model/tree/main/Regression/%E6%8B%9F%E5%90%88)
+        + [插值](https://www.cnblogs.com/hhyx/p/13401503.html)
+        ：根据已有数据得到函数，得到在某些离散点的取值
+            + [代码](https://github.com/hhyxx/Mathematical-Model/tree/main/Regression/%E6%8F%92%E5%80%BC)
+        + [神经网络预测](https://github.com/hhyxx/Mathematical-Model/tree/main/Regression/%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C%E9%A2%84%E6%B5%8B)
++ 数学规划问题
+    + [线性规划](https://github.com/hhyxx/Mathematical-Model/tree/main/MathematicalProgramming/1%20LinearProgramming)
+    + [非线性规划](https://github.com/hhyxx/Mathematical-Model/tree/main/MathematicalProgramming/2%20NonlinearProgramming)
+    + [整数规划](https://github.com/hhyxx/Mathematical-Model/tree/main/MathematicalProgramming/3%20IntegerProgramming)
+    + [最大最小化数学规划](https://github.com/hhyxx/Mathematical-Model/tree/main/MathematicalProgramming/4%20MinmaxProgramming/code11)
+    + [多目标规划](https://github.com/hhyxx/Mathematical-Model/tree/main/MathematicalProgramming/5%20MultiObjectiveProgramming)
 + 多元分析、降维
     + [主成分分析](https://www.cnblogs.com/hhyx/p/13514752.html)
         + [代码](https://github.com/hhyxx/Mathematical-Model/tree/main/DimensionalityReduction/PCA)
@@ -78,4 +86,9 @@
     + [模拟退火](https://github.com/hhyxx/Mathematical-Model/tree/main/IntelligentSearch/SA)
     + [粒子群算法](https://github.com/hhyxx/Mathematical-Model/tree/main/IntelligentSearch/PSO)
     + [遗传算法](https://github.com/hhyxx/Mathematical-Model/tree/main/IntelligentSearch/GeneticAlgorithm)
++ 时间序列数据处理
+    + [指数平滑法](https://github.com/hhyxx/Mathematical-Model/tree/main/TimeSerie/%E6%8C%87%E6%95%B0%E5%B9%B3%E6%BB%91%E6%B3%95)
+    + [移动平均法](https://github.com/hhyxx/Mathematical-Model/tree/main/TimeSerie/%E7%A7%BB%E5%8A%A8%E5%B9%B3%E5%9D%87%E6%B3%95)
+    + [自适应滤波法](https://github.com/hhyxx/Mathematical-Model/tree/main/TimeSerie/%E8%87%AA%E9%80%82%E5%BA%94%E6%BB%A4%E6%B3%A2%E6%B3%95)
+    + [趋势外推法](https://github.com/hhyxx/Mathematical-Model/tree/main/TimeSerie/%E8%B6%8B%E5%8A%BF%E5%A4%96%E6%8E%A8%E9%A2%84%E6%B5%8B%E6%B3%95)
 + [数值积分](https://www.cnblogs.com/hhyx/p/13577891.html)
