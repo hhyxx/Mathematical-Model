@@ -28,10 +28,10 @@
     + 画图工具
 + 计算机模拟
     + 蒙特卡洛模拟
-    + 元胞自动机
-+ 数据挖掘
-    + k-means 聚类
-    + DBCAN 聚类
+    + [元胞自动机](https://github.com/hhyxx/Mathematical-Model/tree/main/Simulate/CellularAutomata)
++ [数据挖掘](https://github.com/hhyxx/Mathematical-Model/tree/main/Clustering)
+    + [k-means 聚类](https://github.com/hhyxx/Mathematical-Model/blob/main/Clustering/kmean.m)
+    + [DBCAN 聚类](https://github.com/hhyxx/Mathematical-Model/tree/main/Clustering/DBSCAN)
     + 机理性聚类
 + 数据处理、数理统计
     + 参数估计、假设检验
@@ -42,24 +42,40 @@
     + 线性规划
     + 非线性规划
     + 整数规划
-+ 最小二乘优化
-+ 方差分析
-+ 多元分析
++ 多元分析、降维
     + [主成分分析](https://www.cnblogs.com/hhyx/p/13514752.html)
+        + [代码](https://github.com/hhyxx/Mathematical-Model/tree/main/DimensionalityReduction/PCA)
+    + [相关系数](https://github.com/hhyxx/Mathematical-Model/tree/main/DimensionalityReduction/CorrelationCoefficient)
 + 回归分析
     + 多元回归分析
-    + $logic$回归
+    + $logicstic$ 回归 
 + 综合评价模型
     + [层次分析法](https://www.cnblogs.com/hhyx/p/13137480.html)：用于未给定数据但需要进行评价
     + [熵权法](https://www.cnblogs.com/hhyx/p/13552610.html)：用于确定各个指标的权重
+        + [代码](https://github.com/hhyxx/Mathematical-Model/tree/main/Evaluation/EntropyMethod)
     + [TOPSIS距离法](https://www.cnblogs.com/hhyx/p/13554605.html)：用于得到最后的综合排名
-+ 对策论
+        + [代码](https://github.com/hhyxx/Mathematical-Model/tree/main/Evaluation/Topsis)
+    + [灰色关联分析](https://github.com/hhyxx/Mathematical-Model/tree/main/Evaluation/GreyRelationalAnalysis)
 + [排队论](https://www.cnblogs.com/hhyx/p/13524728.html) 
     + [常用的分布函数](https://www.cnblogs.com/hhyx/p/13517768.html) 
-+ 图论
-    + 最短路 
++ [图论](https://github.com/hhyxx/Mathematical-Model/tree/main/Graph)
+    + 最短路
+        + `Floyd`
+        + `Dijkstra`
+        + `Spfa`     
     + [网络流](https://www.cnblogs.com/hhyx/p/13558459.html) 
++ [具有单调性的最优求解]()
+    + [二分](https://github.com/hhyxx/Mathematical-Model/tree/main/MonotonicFunctionBestAnswer/matlab/%E4%BA%8C%E5%88%86)
+    + 黄金分割三分
+        + [cpp](https://github.com/hhyxx/Mathematical-Model/blob/main/MonotonicFunctionBestAnswer/c%2B%2B/%E9%BB%84%E9%87%91%E5%88%86%E5%89%B2%E6%B3%95.cpp)
+        + [matlab](https://github.com/hhyxx/Mathematical-Model/tree/main/MonotonicFunctionBestAnswer/matlab/%E9%BB%84%E9%87%91%E5%88%86%E5%89%B2%E4%B8%89%E5%88%86%E6%B3%95)
+    + [加步探索](https://github.com/hhyxx/Mathematical-Model/tree/main/MonotonicFunctionBestAnswer/matlab/%E5%8A%A0%E6%AD%A5%E6%8E%A2%E7%B4%A2%E6%B3%95)
+    + [最速下降](https://github.com/hhyxx/Mathematical-Model/tree/main/MonotonicFunctionBestAnswer/matlab/%E6%9C%80%E9%80%9F%E4%B8%8B%E9%99%8D%E6%B3%95)
+    + [抛物线插值法](https://github.com/hhyxx/Mathematical-Model/blob/main/MonotonicFunctionBestAnswer/c%2B%2B/%E6%8A%9B%E7%89%A9%E7%BA%BF%E6%8F%92%E5%80%BC.cpp)
+
+
 + 智能算法
-    + [模拟退火](https://www.cnblogs.com/hhyx/p/12814003.html)
-    + 粒子群算法 
+    + [模拟退火](https://github.com/hhyxx/Mathematical-Model/tree/main/IntelligentSearch/SA)
+    + [粒子群算法](https://github.com/hhyxx/Mathematical-Model/tree/main/IntelligentSearch/PSO)
+    + [遗传算法](https://github.com/hhyxx/Mathematical-Model/tree/main/IntelligentSearch/GeneticAlgorithm)
 + [数值积分](https://www.cnblogs.com/hhyx/p/13577891.html)
